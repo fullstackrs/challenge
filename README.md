@@ -1,3 +1,5 @@
+[If you are going to solve this challenge, then email contact@fullstackrs.com that you are working on it.] 
+
 **Challenge:  Building a Blog with Supabase**
 
 Create a simple blog application with two main components: a blog list for public viewing and an admin panel for managing blogs using Next.js, Tailwind CSS, and Supabase.
